@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pooooongaloooooong
+- 👀 I’m interested in C++ and Reverse Engineering
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on nothing pog
+- 📫 How to reach me .text#1000
